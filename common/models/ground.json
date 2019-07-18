@@ -1,0 +1,1 @@
+{"name":"ground","base":"PersistedModel","idInjection":true,"options":{"validateUpsert":true},"properties":{"game":{"type":"string","required":true},"roll":{"type":"string","required":true},"time":{"type":"string"},"hour":{"type":"string","required":true},"currenttime":{"type":"string","required":true}},"validations":[],"relations":{},"acls":[],"methods":{}}
